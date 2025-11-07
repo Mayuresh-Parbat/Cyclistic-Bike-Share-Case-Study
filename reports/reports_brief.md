@@ -84,7 +84,7 @@ Help the marketing team design data-backed campaigns that encourage casual rider
 
 
 
-🧩 Data Source \& Quality Factors
+🧩 Data Source & Quality Factors
 
 
 
@@ -200,11 +200,11 @@ Python · Pandas · SQLite · SQL · Power BI · GitHub
 
 Mayuresh Parbat
 
-📍 Solapur, India
+📍 Pune, India
 
-🎯 Data Analyst | Python | SQL | Power BI | Excel
+🎯 Data Analyst  Excel | Python | SQL | Power BI |
 
-🔗 \[LinkedIn Profile](https://linkedin.com/in/YOUR-LINK)
+🔗 \[LinkedIn Profile](www.linkedin.com/in/mayuresh-parbat-a32b4133a)
 
 
 
