@@ -1,0 +1,17 @@
+# Data and large binary files
+data/raw/
+data/processed/*.csv
+data/processed/*.db
+*.pbix
+*.sqbpro
+*.xlsx
+*.zip
+
+# Python & notebook
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
