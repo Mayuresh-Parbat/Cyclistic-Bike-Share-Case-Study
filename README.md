@@ -111,4 +111,3 @@ Visual Highlights:
 Mayuresh Parbat
 📍 Pune, India
 🎯 Data Analyst | Python | SQL | Power BI | Excel
-🔗 [LinkedIn Profile](www.linkedin.com/in/mayuresh-parbat-a32b4133a)
