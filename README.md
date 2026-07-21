@@ -108,6 +108,6 @@ Visual Highlights:
 
 👨‍💻 Author
 
-Mayuresh Parbat
+**Mayuresh Parbat**
 📍 Pune, India
 🎯 Data Analyst | Python | SQL | Power BI | Excel
